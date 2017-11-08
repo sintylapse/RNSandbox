@@ -71,3 +71,10 @@ adb uninstall "com.rnsandbox"
 Failed to extract native libraries, res=-18
 ```
 clear device storage space
+
+### List of nice-looking components
+- react-native-button-component (buttons)
+- react-native-onboarding-component (slider with parallax)
+- react-native-parallax-cards (slider with parallax cards)
+- react-native-card-modal
+- react-native-parallax-view
