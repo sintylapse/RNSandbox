@@ -19,4 +19,6 @@ if (__DEV__) {
         .use(networking())
         .use(reactotronRedux())
         .connect()
+
+    console.tron = Reactotron.log
 }

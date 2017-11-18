@@ -1,7 +1,11 @@
 # React Native sandbox
 A RN template based on react-native-navigation. You can use it for initializing your project, or quick testing some libs.
 
-## React Native build notes
+- react-native-navigation (compileSdkVersion 25, buildToolsVersion "25.0.1")
+- redux
+- Reactotron integrated: download it and never use remote debugger anymore. Use console.tron instead of console.log
+
+## React Native build process notes
 
 #### Build and debug
 - Plug device in

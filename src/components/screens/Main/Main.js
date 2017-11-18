@@ -23,7 +23,10 @@ export default class Main extends Component {
                     .... - buildToolsVersion "25.0.1"
                 </Text>
                 <Text>
-                     for testing some shit.
+                     - redux
+                </Text>
+                <Text>
+                     - Reactotron
                 </Text>
             </View>
         )
